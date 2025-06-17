@@ -1,81 +1,99 @@
-# 💫 About Me
-
-👋 Hi, I’m **Aditya Kumar** – a passionate software developer who loves turning ideas into scalable software. With a strong foundation in Java, DSA, and full-stack development, I'm always working on something new and exciting.
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<p align="center">🚀 Full-Stack Developer | Java Enthusiast | Problem Solver</p>
 
 ---
 
-🔭 **Currently Working On:**  
-A real-time **Chat Application** using **Node.js** and **Socket.IO**, with plans to implement full backend support and user authentication.
+## 💫 About Me
 
-🤝 **Looking to Collaborate On:**  
-Full-stack web projects, Java backend systems, and open-source tools that solve real-world problems.
+- 🔭 **Currently Working On:**  
+  A real-time chat app using **Node.js** and **Socket.IO**, with backend and authentication in progress.
 
-❓ **Looking for Help With:**  
-Scalable backend architecture, clean React codebases, and building robust Java backends (Spring Boot, REST APIs).
+- 🤝 **Looking to Collaborate On:**  
+  Full-stack web apps, Java backend projects, and open-source contributions.
 
-🌱 **Currently Learning:**  
-React.js, modern frontend workflows, and planning to dive deeper into backend development with Java and Spring ecosystem.
+- ❓ **Need Help With:**  
+  Scalable backend architecture, **React.js**, and **Spring Boot** development.
 
-💬 **Ask Me About:**  
-Java | DSA | Node.js | Web Development | Real-time Applications | Project Structuring
+- 🌱 **Currently Learning:**  
+  React, advanced frontend patterns, and preparing to dive deep into Java backend frameworks.
 
-⚡ **Fun Fact:**  
-I believe well-written code should read like a good story — clear, elegant, and purposeful.
+- 💬 **Ask Me About:**  
+  Java | DSA | Web Development | Real-time Apps | Project Architecture
+
+- ⚡ **Fun Fact:**  
+  I believe great code should read like a well-written story — elegant, clean, and purposeful.
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ADITYA_MAY_16) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-19b3a2299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@KUMAR_ADIT64273) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ADITYAMAY0101@GMAIL.COM)
+<p align="left">
+  <a href="mailto:ADITYAMAY0101@GMAIL.COM" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Aditya Kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/ADITYA_MAY_16" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://x.com/KUMAR_ADIT64273" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=flat-square&logo=adobe-lightroom&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ADI-7065&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=ADI-7065&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ADI-7065&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADI-7065&theme=dark&hide_border=false&show_icons=true" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADI-7065&layout=compact&theme=dark&hide_border=false" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ADI-7065&theme=dark&hide_border=false" height="150px"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ADI-7065&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ADI-7065&theme=radical&no-frame=true&margin-w=4"/>
+</p>
 
 ---
 
-## ✍️ Developer Quote
+## ✍️ Quote of the Day
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ADI-7065&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ADI-7065&icon=0&color=0" alt="Profile views counter"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Designed with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
