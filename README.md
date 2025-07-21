@@ -1,24 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <p align="center">🚀 Full-Stack Developer | Java Enthusiast | Problem Solver</p>
 ---
----
-## 💫 About Me
-
-- 🔭 **Currently Working On:**  
-  A real-time chat app using **Node.js** and **Socket.IO**, with backend and authentication in progress.
-- 🤝 **Looking to Collaborate On:**  
-  Full-stack web apps, Java backend projects, and open-source contributions.
-- ❓ **Need Help With:**  
-  Scalable backend architecture, **React.js**, and **Spring Boot** development.
-- 🌱 **Currently Learning:**  
-  React, advanced frontend patterns, and preparing to dive deep into Java backend frameworks.
-- 💬 **Ask Me About:**  
-  Java | DSA | Web Development | Real-time Apps | Project Architecture
-- ⚡ **Fun Fact:**  
-  I believe great code should read like a well-written story — elegant, clean, and purposeful.
-
----
-
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
@@ -34,22 +16,16 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 
 ### 🧠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 
 ### ⚙️ DevOps, Deployment & Hosting
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ### 🧰 Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
