@@ -83,13 +83,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/Skill-OOPs-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/SEO-Optimized-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tool-EclipseIDE-lightgrey?style=flat-square&logo=eclipseide" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/denvercoder1/github-contribution-grid-snake/main/images/snake-dark.svg" />
+</div>
+
 
 ---
 
