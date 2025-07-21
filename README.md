@@ -83,6 +83,15 @@
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar&show_icons=true&theme=radical" />
+</div>
+
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
