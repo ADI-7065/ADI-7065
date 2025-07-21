@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aditya+Kumar;Java+Developer;Coding+is+❤️;Always+learning+new+things!&center=true&color=58A6FF&width=380&height=50" />
 </div>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🚀 My Tech Stack
@@ -66,10 +70,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ADI-7065&theme=dark&hide_border=false&show_icons=true" height="150px"/>
@@ -100,9 +100,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ADI-7065&icon=0&color=0" alt="Visit Count" />
-  </a>
-</p>
