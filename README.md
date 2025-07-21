@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <p align="center">🚀 Full-Stack Developer | Java Enthusiast | Problem Solver</p>
+
 ---
 
 ## 💻 Tech Stack
