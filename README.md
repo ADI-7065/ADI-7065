@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <p align="center">🚀 Full-Stack Developer | Java Enthusiast | Problem Solver</p>
+---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aditya+Kumar;Java+Developer;Coding+is+❤️;Always+learning+new+things!&center=true&color=58A6FF&width=380&height=50" />
+</div>
+
+---
 ---
 
 ## 🚀 My Tech Stack
@@ -81,38 +87,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/denvercoder1/github-contribution-grid-snake/main/images/snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aditya+Kumar;Java+Developer;Coding+is+❤️;Always+learning+new+things!&center=true&color=58A6FF&width=380&height=50" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="Hackerman" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
-</div>
-
-
----
 
 ## 📊 GitHub Stats
 
@@ -140,6 +114,14 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
+
+---
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250" />
+</div>
 
 ---
 
