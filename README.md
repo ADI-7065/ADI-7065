@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<p align="center">🚀 Full-Stack Developer | Java Enthusiast | Problem Solver</p>
-  <img align="center src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aditya+Kumar;Java+Developer;Coding+is+❤️;Always+learning+new+things!&center=true&color=58A6FF&width=380&height=50" />
+<p align="center">🚀 Full-Stack Developer | Java Enthusiast | Python | Web Developer | Problem Solver</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aditya+Kumar;Java+Developer;Coding+is+❤️;Always+learning+new+things!&center=true&color=58A6FF&width=380&height=50" />
+</div>
 
 ---
 
