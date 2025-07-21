@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aditya+Kumar;Java+Developer;Coding+is+❤️;Always+learning+new+things!&center=true&color=58A6FF&width=380&height=50" />
 </div>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 🚀 My Tech Stack
@@ -69,6 +65,10 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📊 GitHub Stats
 <p align="center">
