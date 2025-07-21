@@ -5,53 +5,65 @@
 
 ## 🚀 My Tech Stack
 
-<strong>💻 Programming Languages</strong>    
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-<strong>🖥️ Frontend Development</strong>
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  </p>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+  <h3>🖥️ Frontend Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  </p>
 
-<strong>⚙️ Backend & Databases</strong>
+  <h3>⚙️ Backend & Databases</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  </p>
 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+  <h3>🧠 Computer Science Concepts</h3>
+  <p>
+    <img src="https://img.shields.io/badge/OOPs-%23FF9800.svg?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/DSA-%2300BCD4.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SDLC-%23779586.svg?style=for-the-badge&logo=simpleicons&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OS-%232196F3.svg?style=for-the-badge&logo=linux&logoColor=white"/>
+  </p>
 
-<strong>🧠 Computer Science Concepts</strong>
+  <h3>🧠 AI & Modern Tech</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-%235E5DF0.svg?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI-%2300C853.svg?style=for-the-badge&logo=ai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SEO-%23FF5722.svg?style=for-the-badge&logo=google&logoColor=white"/>
+  </p>
 
-![OOPs](https://img.shields.io/badge/OOPs-%23FF9800.svg?style=for-the-badge&logo=java&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-%2300BCD4.svg?style=for-the-badge&logo=codeforces&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-%23779586.svg?style=for-the-badge&logo=simpleicons&logoColor=white)
-![Operating System](https://img.shields.io/badge/OS-%232196F3.svg?style=for-the-badge&logo=linux&logoColor=white)
+  <h3>🛠️ Tools & Platforms</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  </p>
 
-<strong>🧠 AI & Modern Tech</strong>
+  <h3>🧰 IDEs & Code Editors</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NetBeans-%233D9DF6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  </p>
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%235E5DF0.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/AI-%2300C853.svg?style=for-the-badge&logo=ai&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-%23FF5722.svg?style=for-the-badge&logo=google&logoColor=white)
-
-<strong>🛠️ Tools & Platforms</strong>
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-<strong>🧰 IDEs & Code Editors</strong>
-
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/NetBeans-%233D9DF6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
+</div>
 
 ---
 
