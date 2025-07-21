@@ -83,29 +83,13 @@
 
 ---
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/raw/main/images/pacman.gif" alt="pacman animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumar&theme=github-compact&area=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3ov9k4EjjfRnT7P3Tq/giphy.gif" alt="spaceship animation" width="300" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=flat-square&logo=java" />
+  <img src="https://img.shields.io/badge/Skill-OOPs-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SEO-Optimized-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool-EclipseIDE-lightgrey?style=flat-square&logo=eclipseide" />
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visualstudiocode" />
+</p>
 
 ---
 
